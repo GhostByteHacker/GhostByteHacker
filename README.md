@@ -1,5 +1,3 @@
-<script src="https://tryhackme.com/badge/2168152"></script>
-
 - Hi there, I'm @GhostByteHacker.
 - I'm passionate about ethical hacking, quantum computing, and creating AI and ML models.
 - Currently, I'm learning about developing my own local AI systems.
